@@ -1,0 +1,21 @@
+{
+    "name": "activelearning",
+    "description": "activelearning",
+    "author": "abelsan",
+    "keywords": ["activelearning"],
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.2.0"
+    }
+}
+
+// hello world
